@@ -1,14 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Exo:400,700");
 
-.context {
-  width: 100%;
-  position: absolute;
-  top: 50vh;
-}
-
 .area {
-  background: #ea7d30;
-  background: -webkit-linear-gradient(to left, #8f94fb, #da8c0f);
+  background: #4e54c8;
+  background: -webkit-linear-gradient(to left, #8f94fb00, #4e54c800);
   width: 100%;
   height: 100vh;
 }

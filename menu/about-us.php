@@ -383,18 +383,12 @@
 
               </div>
               <div class="gallery-list d-flex justify-content-between flex-wrap">
-                <a href="../img/bg-img/control1.jpg" class="gallery-img" title="Gallery Image 1"><img
-                    src="../img/bg-img/control1.jpg" alt=""></a>
-                <a href="../img/bg-img/control2.jpg" class="gallery-img" title="Gallery Image 2"><img
-                    src="../img/bg-img/control2.jpg" alt=""></a>
-                <a href="../img/bg-img/control3.jpg" class="gallery-img" title="Gallery Image 3"><img
-                    src="../img/bg-img/control3.jpg" alt=""></a>
-                <a href="../img/bg-img/control4.jpg" class="gallery-img" title="Gallery Image 4"><img
-                    src="../img/bg-img/control4.jpg" alt=""></a>
-                <a href="../img/bg-img/control5.jpg" class="gallery-img" title="Gallery Image 5"><img
-                    src="../img/bg-img/control5.jpg" alt=""></a>
-                <a href="../img/bg-img/control6.jpg" class="gallery-img" title="Gallery Image 6"><img
-                    src="../img/bg-img/control6.jpg" alt=""></a>
+                <a href="../img/bg-img/control1.jpg" class="gallery-img" title="Gallery Image 1"><img src="../img/bg-img/control1.jpg" alt=""></a>
+                <a href="../img/bg-img/control2.jpg" class="gallery-img" title="Gallery Image 2"><img src="../img/bg-img/control2.jpg" alt=""></a>
+                <a href="../img/bg-img/control3.jpg" class="gallery-img" title="Gallery Image 3"><img src="../img/bg-img/control3.jpg" alt=""></a>
+                <a href="../img/bg-img/control4.jpg" class="gallery-img" title="Gallery Image 4"><img src="../img/bg-img/control4.jpg" alt=""></a>
+                <a href="../img/bg-img/control5.jpg" class="gallery-img" title="Gallery Image 5"><img src="../img/bg-img/control5.jpg" alt=""></a>
+                <a href="../img/bg-img/control6.jpg" class="gallery-img" title="Gallery Image 6"><img src="../img/bg-img/control6.jpg" alt=""></a>
               </div>
             </div>
           </div>
@@ -428,9 +422,8 @@
             <p>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
               Copyright &copy;<script>
-              document.write(new Date().getFullYear());
-              </script> All rights reserved | This template is made with <i class="fa fa-heart-o"
-                aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">COPAP</a>
+                document.write(new Date().getFullYear());
+              </script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">COPAP</a>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
           </div>
@@ -451,8 +444,7 @@
   <script src="../js/plugins/plugins.js"></script>
   <!-- Active js -->
   <script src="../js/active.js"></script>
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
-      class="bi bi-arrow-up-short"></i></a>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter.js"></script>
