@@ -84,11 +84,6 @@
         <li></li>
         <li></li>
         <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
       </ul>
       <div class="login-info-container">
         <div class="social-login">
