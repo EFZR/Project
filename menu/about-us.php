@@ -186,6 +186,7 @@
                   <li><a href="#"><i class="fa-brands whatsapp"></i></a></li>
                   <li><a href="#"><i class="fa-brands twitter twitter"></i></a></li>
                   <li><a href="#"><i class=""></i></a></li>
+                  <li><a href="#"><i class=""></i></a></li>
                   <li><a href="#"><i class="fa-brands fa-twitter twitter"></i></a></li>
                 </ol>
               </div>
@@ -243,6 +244,7 @@
                   <li><a href="#"><i class="fa-brands whatsapp"></i></a></li>
                   <li><a href="#"><i class="fa-brands twitter twitter"></i></a></li>
                   <li><a href="#"><i class=""></i></a></li>
+                  <li><a href="#"><i class=""></i></a></li>
                   <li><a href="#"><i class="fa-brands fa-twitter twitter"></i></a></li>
                 </ol>
               </div>
@@ -274,6 +276,7 @@
                   <li><a href="#"><i class="fa-brands whatsapp"></i></a></li>
                   <li><a href="#"><i class="fa-brands twitter twitter"></i></a></li>
                   <li><a href="#"><i class=""></i></a></li>
+                  <li><a href="#"><i class=""></i></a></li>
                   <li><a href="#"><i class="fa-brands fa-twitter twitter"></i></a></li>
                 </ol>
               </div>
@@ -300,7 +303,7 @@
           </div>
         </div>
 
-        <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-delay="300">
+        <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-delay="200">
           <div class="member">
             <img src="../assets/img/Guty.png" class="img-fluid" alt="">
             <div class="member-info">
@@ -311,6 +314,7 @@
                   <li><a href="#"><i class="fa-brands instagram"></i></a></li>
                   <li><a href="#"><i class="fa-brands whatsapp"></i></a></li>
                   <li><a href="#"><i class="fa-brands twitter twitter"></i></a></li>
+                  <li><a href="#"><i class=""></i></a></li>
                   <li><a href="#"><i class=""></i></a></li>
                   <li><a href="#"><i class="fa-brands fa-twitter twitter"></i></a></li>
                 </ol>
@@ -356,10 +360,12 @@
           <!-- Footer Widget Area -->
           <div class="col-12 col-sm-6 col-lg-3">
             <div class="footer-widget mb-100">
-              <div class="widget-title">
-                <a href="#"><img src="../img/bg-img/logo.png" alt=""></a>
+              <div style="text-align: center;" class="widget-title">
+                <!-- <a href="#"><img src="img/bg-img/logo.png" alt=""></a> -->
+                <img src="../img/QR.png" alt="" width="200px">
+                <p>¡ESCANEAME!</p>
               </div>
-              <p>CONTROL DE PLANILAS DE PAGO COPAP</p>
+              <p>Redes Sociales</p>
               <div class="footer-social-info">
                 <a href="#"><i class="fa fa-facebook"></i></a>
                 <a href="#"><i class="fa fa-twitter"></i></a>
@@ -391,20 +397,7 @@
               <div class="widget-title">
 
               </div>
-              <div class="gallery-list d-flex justify-content-between flex-wrap">
-                <a href="../img/bg-img/control1.jpg" class="gallery-img" title="Gallery Image 1"><img
-                    src="../img/bg-img/control1.jpg" alt=""></a>
-                <a href="../img/bg-img/control2.jpg" class="gallery-img" title="Gallery Image 2"><img
-                    src="../img/bg-img/control2.jpg" alt=""></a>
-                <a href="../img/bg-img/control3.jpg" class="gallery-img" title="Gallery Image 3"><img
-                    src="../img/bg-img/control3.jpg" alt=""></a>
-                <a href="../img/bg-img/control4.jpg" class="gallery-img" title="Gallery Image 4"><img
-                    src="../img/bg-img/control4.jpg" alt=""></a>
-                <a href="../img/bg-img/control5.jpg" class="gallery-img" title="Gallery Image 5"><img
-                    src="../img/bg-img/control5.jpg" alt=""></a>
-                <a href="../img/bg-img/control6.jpg" class="gallery-img" title="Gallery Image 6"><img
-                    src="../img/bg-img/control6.jpg" alt=""></a>
-              </div>
+
             </div>
           </div>
           <!-- contactos-->
@@ -423,7 +416,7 @@
               </div>
               <div class="single-contact d-flex">
                 <i class="icon-email"></i>
-                <p>copapoficial@gmail.com</p>
+                <p>copapbandersnatch@gmail.com</p>
               </div>
             </div>
           </div>
@@ -439,12 +432,13 @@
               Copyright &copy;<script>
               document.write(new Date().getFullYear());
               </script> All rights reserved | This template is made with <i class="fa fa-heart-o"
-                aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">COPAP</a>
+                aria-hidden="true"></i> by <a href="" target="_blank">COPAP</a>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
           </div>
         </div>
       </div>
+    </div>
     </div>
   </footer>
 
