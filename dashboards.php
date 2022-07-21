@@ -304,9 +304,9 @@
           <h1 class="h3 mb-1 text-gray-800">Dashboard</h1>
         </div>
 
-        <div id="chartPosition" style="width: 45%; height: 300px;display: inline-block;"></div>
-        <div id="PieChartEmp" style="width: 45%; height: 300px;display: inline-block;"></div>
-        <div id="sexChart" style="width: 45%; height: 300px;display: inline-block;"></div>
+        <div id="chartPosition" style="width: 45%; height: 20%;display: inline-block;"></div>
+        <div id="PieChartEmp" style="width: 45%; height: 20%;display: inline-block;"></div>
+        <div id="sexChart" style="width: 45%; height: 20%;display: inline-block;"></div>
 
       </div>
 
