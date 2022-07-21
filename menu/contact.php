@@ -109,7 +109,8 @@
                       <hr>
                     </div>
 
-                    <h class="mt-30">Envianos un correo electrónico y con gusto te atenderemos resolviendo todas tus dudas</h>
+                    <h class="mt-30">Envianos un correo electrónico y con gusto te atenderemos resolviendo todas tus
+                      dudas</h>
 
                   </div>
                   <!-- Single Contact Info -->
@@ -149,7 +150,8 @@
                           pattern="[a-z0-9_]+([.][a-z0-9_]+)*@[a-z0-9_]+([.][a-z0-9_]+)*[.][a-z]{1,5}" required
                           minlength="12" maxlength="50" onblur="lowerCase('Correo')">
                       </div>
-                      <p class="formulario__input-error">El correo solo puede contener letras, números, puntos, guiones y guión bajo.
+                      <p class="formulario__input-error">El correo solo puede contener letras, números, puntos, guiones
+                        y guión bajo.
                       </p>
                     </div>
 
@@ -205,10 +207,11 @@
           <!-- Footer Widget Area -->
           <div class="col-12 col-sm-6 col-lg-3">
             <div class="footer-widget mb-100">
-              <div class="widget-title">
-                <a href="#"><img src="../img/bg-img/logo.png" alt=""></a>
+              <div style="text-align: center;" class="widget-title">
+                <!-- <a href="#"><img src="../img/bg-img/logo.png" alt=""></a> -->
+                <a href="#"><img src="../img/QR.png" width="200px"></a>
+                <p>¡ESCANEAME PARA MÁS INFORMACIÓN!</p>
               </div>
-              <p>CONTROL DE PLANILAS DE PAGO COPAP</p>
               <div class="footer-social-info">
                 <a href="#"><i class="fa fa-facebook"></i></a>
                 <a href="#"><i class="fa fa-twitter"></i></a>
@@ -239,20 +242,6 @@
             <div class="footer-widget mb-100">
               <div class="widget-title">
 
-              </div>
-              <div class="gallery-list d-flex justify-content-between flex-wrap">
-                <a href="../img/bg-img/control1.jpg" class="gallery-img" title="Gallery Image 1"><img
-                    src="../img/bg-img/control1.jpg" alt=""></a>
-                <a href="../img/bg-img/control2.jpg" class="gallery-img" title="Gallery Image 2"><img
-                    src="../img/bg-img/control2.jpg" alt=""></a>
-                <a href="../img/bg-img/control3.jpg" class="gallery-img" title="Gallery Image 3"><img
-                    src="../img/bg-img/control3.jpg" alt=""></a>
-                <a href="../img/bg-img/control4.jpg" class="gallery-img" title="Gallery Image 4"><img
-                    src="../img/bg-img/control4.jpg" alt=""></a>
-                <a href="../img/bg-img/control5.jpg" class="gallery-img" title="Gallery Image 5"><img
-                    src="../img/bg-img/control5.jpg" alt=""></a>
-                <a href="../img/bg-img/control6.jpg" class="gallery-img" title="Gallery Image 6"><img
-                    src="../img/bg-img/control6.jpg" alt=""></a>
               </div>
             </div>
           </div>

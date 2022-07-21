@@ -195,8 +195,9 @@
               <i class="icon-info"></i>
             </div>
             <div class="course-content">
-              <h4>AACCESO FÁCIL, RÁPIDO PERO TAMBIÉN SEGURO</h4>
-              <p>Puedes acceder a tu información a cualquier hora y en cualquier lugar de una forma segura, rápida y confiable</p>
+              <h4>ACCESO FÁCIL, RÁPIDO PERO TAMBIÉN SEGURO</h4>
+              <p>Puedes acceder a tu información a cualquier hora y en cualquier lugar de una forma segura, rápida y
+                confiable</p>
 
             </div>
           </div>
@@ -231,7 +232,8 @@
   <!-- ##### FIN AREA DE SERVICIOS ##### -->
 
   <!-- ##### CLIENTES SATISFECHOS ##### -->
-  <div class="testimonials-area section-padding-100 bg-img bg-overlay" style="background-image: url(../img/bg-img/back.jpg);">
+  <div class="testimonials-area section-padding-100 bg-img bg-overlay"
+    style="background-image: url(../img/bg-img/back.jpg);">
     <div class="container">
 
       <div class="row">
@@ -335,7 +337,7 @@
                 <div style="text-align: center;" class="widget-title">
                   <!-- <a href="#"><img src="img/bg-img/logo.png" alt=""></a> -->
                   <img src="img/QR.png" alt="" width="200px">
-                  <p>¡ESCANEAME!</p>
+                  <p>¡ESCANEAME PARA MÁS INFORMACIÓN!</p>
                 </div>
                 <p>Redes Sociales</p>
                 <div class="footer-social-info">
@@ -401,8 +403,9 @@
               <p>
                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                 Copyright &copy;<script>
-                  document.write(new Date().getFullYear());
-                </script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="" target="_blank">COPAP</a>
+                document.write(new Date().getFullYear());
+                </script> All rights reserved | This template is made with <i class="fa fa-heart-o"
+                  aria-hidden="true"></i> by <a href="" target="_blank">COPAP</a>
                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
               </p>
             </div>

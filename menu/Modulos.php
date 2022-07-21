@@ -346,7 +346,7 @@
               <div style="text-align: center;" class="widget-title">
                 <!-- <a href="#"><img src="img/bg-img/logo.png" alt=""></a> -->
                 <img src="../img/QR.png" alt="" width="200px">
-                <p>¡ESCANEAME!</p>
+                <p>¡ESCANEAME PARA MÁS INFORMACIÓN!</p>
               </div>
               <p>Redes Sociales</p>
               <div class="footer-social-info">

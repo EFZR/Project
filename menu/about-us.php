@@ -135,10 +135,21 @@
       </div>
       <div class="row">
         <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-          <p>Nuestro sistema cuenta con las herramientas necesarias para cubrir las necesidades básicas de tu empresa. Cada día el mundo laboral crece más, te enfrentas a diferentes retos, nosotros hacemos que el manejo de tus empleados sea más fácil, organizado y sobre todo, confiable. El manejo adecuado de tu personal es una pieza clave para el buen funcionamiento de tu empresa. Al contar con un sistema que cubre desde el control de horarios hasta el control de pagos te estás evitando el enfrentamiento a futuros predicamentos entre tu equipo de trabajo e incluso legales.</p>
+          <p>Nuestro sistema cuenta con las herramientas necesarias para cubrir las necesidades básicas de tu empresa.
+            Cada día el mundo laboral crece más, te enfrentas a diferentes retos, nosotros hacemos que el manejo de tus
+            empleados sea más fácil, organizado y sobre todo, confiable. El manejo adecuado de tu personal es una pieza
+            clave para el buen funcionamiento de tu empresa. Al contar con un sistema que cubre desde el control de
+            horarios hasta el control de pagos te estás evitando el enfrentamiento a futuros predicamentos entre tu
+            equipo de trabajo e incluso legales.</p>
         </div>
         <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="500ms">
-          <p>Nuestro sistema cuenta con las herramientas necesarias para cubrir las necesidades básicas de tu empresa. Cada día el mundo laboral crece más, te enfrentas a diferentes retos, nosotros hacemos que el manejo de tus empleados sea más fácil, organizado y sobre todo, confiable. El manejo adecuado de tu personal es una pieza clave para el buen funcionamiento de tu empresa. Al contar con un sistema que cubre desde el control de horarios hasta el control de pagos te estás evitando el enfrentamiento a futuros predicamentos entre tu equipo de trabajo e incluso legales.</div>
+          <p>Nuestro sistema cuenta con las herramientas necesarias para cubrir las necesidades básicas de tu empresa.
+            Cada día el mundo laboral crece más, te enfrentas a diferentes retos, nosotros hacemos que el manejo de tus
+            empleados sea más fácil, organizado y sobre todo, confiable. El manejo adecuado de tu personal es una pieza
+            clave para el buen funcionamiento de tu empresa. Al contar con un sistema que cubre desde el control de
+            horarios hasta el control de pagos te estás evitando el enfrentamiento a futuros predicamentos entre tu
+            equipo de trabajo e incluso legales.
+        </div>
 
       </div>
       <div class="row">
@@ -353,7 +364,7 @@
               <div style="text-align: center;" class="widget-title">
                 <!-- <a href="#"><img src="img/bg-img/logo.png" alt=""></a> -->
                 <img src="../img/QR.png" alt="" width="200px">
-                <p>¡ESCANEAME!</p>
+                <p>¡ESCANEAME PARA MÁS INFORMACIÓN!</p>
               </div>
               <p>Redes Sociales</p>
               <div class="footer-social-info">
@@ -420,9 +431,8 @@
             <p>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
               Copyright &copy;<script>
-              document.write(new Date().getFullYear());
-              </script> All rights reserved | This template is made with <i class="fa fa-heart-o"
-                aria-hidden="true"></i> by <a href="" target="_blank">COPAP</a>
+                document.write(new Date().getFullYear());
+              </script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="" target="_blank">COPAP</a>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
           </div>
@@ -444,8 +454,7 @@
   <script src="../js/plugins/plugins.js"></script>
   <!-- Active js -->
   <script src="../js/active.js"></script>
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
-      class="bi bi-arrow-up-short"></i></a>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter.js"></script>
