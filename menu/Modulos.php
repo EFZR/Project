@@ -130,36 +130,45 @@
           <div class="accordions mb-100" id="accordion" role="tablist" aria-multiselectable="true">
             <!-- single accordian area -->
             <div class="panel single-accordion">
-              <h6><a role="button" class="" aria-expanded="true" aria-controls="collapseOne" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Acceso a reporte de tus empleados segun se presenten tus necesidades:
+              <h6><a role="button" class="" aria-expanded="true" aria-controls="collapseOne" data-toggle="collapse"
+                  data-parent="#accordion" href="#collapseOne">Acceso a reporte de tus empleados segun se presenten tus
+                  necesidades:
                   <span class="accor-open"><i class="fa fa-plus" aria-hidden="true"></i></span>
                   <span class="accor-close"><i class="fa fa-minus" aria-hidden="true"></i></span>
                 </a></h6>
               <div id="collapseOne" class="accordion-content collapse show">
-                <h>Podrás generar reportes de tus empleados según su jornada, horas trabajadas, salario, y cualquier clasificación que necesites incorporar.</h>
+                <h>Podrás generar reportes de tus empleados según su jornada, horas trabajadas, salario, y cualquier
+                  clasificación que necesites incorporar.</h>
               </div>
             </div>
             <!-- single accordian area -->
             <div class="panel single-accordion">
               <h6>
-                <a role="button" class="collapsed" aria-expanded="true" aria-controls="collapseTwo" data-parent="#accordion" data-toggle="collapse" href="#collapseTwo">PLAN MULTIUSUARIO.
+                <a role="button" class="collapsed" aria-expanded="true" aria-controls="collapseTwo"
+                  data-parent="#accordion" data-toggle="collapse" href="#collapseTwo">PLAN MULTIUSUARIO.
                   <span class="accor-open"><i class="fa fa-plus" aria-hidden="true"></i></span>
                   <span class="accor-close"><i class="fa fa-minus" aria-hidden="true"></i></span>
                 </a>
               </h6>
               <div id="collapseTwo" class="accordion-content collapse">
-                <h>Si no eres el único administrador de tu empresa también tenemos una propuesta para ti. Con nuestro plan multiusuario podrás crear tres perfiles en nuestro sistema y asignar los módulos de acceso según el rol de cada usuario.</h>
+                <h>Si no eres el único administrador de tu empresa también tenemos una propuesta para ti. Con nuestro
+                  plan multiusuario podrás crear tres perfiles en nuestro sistema y asignar los módulos de acceso según
+                  el rol de cada usuario.</h>
               </div>
             </div>
             <!-- single accordian area -->
             <div class="panel single-accordion">
               <h6>
-                <a role="button" aria-expanded="true" aria-controls="collapseThree" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseThree"> CREACIÓN Y REGISTRO DE PLANILLAS
+                <a role="button" aria-expanded="true" aria-controls="collapseThree" class="collapsed"
+                  data-parent="#accordion" data-toggle="collapse" href="#collapseThree"> CREACIÓN Y REGISTRO DE
+                  PLANILLAS
                   <span class="accor-open"><i class="fa fa-plus" aria-hidden="true"></i></span>
                   <span class="accor-close"><i class="fa fa-minus" aria-hidden="true"></i></span>
                 </a>
               </h6>
               <div id="collapseThree" class="accordion-content collapse">
-                <h>Ya no tienes que preocuparte por extensos papeleos ni las tendiosas hojas de calculo y mucho menos por respaldar tu información. COPAP hace eso y mucho mas por ti</h>
+                <h>Ya no tienes que preocuparte por extensos papeleos ni las tendiosas hojas de calculo y mucho menos
+                  por respaldar tu información. COPAP hace eso y mucho mas por ti</h>
               </div>
             </div>
           </div>
@@ -171,13 +180,16 @@
           <div class="academy-tabs-content">
             <ul class="nav nav-tabs" id="myTab" role="tablist">
               <li class="nav-item">
-                <a class="nav-link" id="tab--1" data-toggle="tab" href="#tab1" role="tab" aria-controls="tab1" aria-selected="false">MISIÓN</a>
+                <a class="nav-link" id="tab--1" data-toggle="tab" href="#tab1" role="tab" aria-controls="tab1"
+                  aria-selected="false">MISIÓN</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" id="tab--2" data-toggle="tab" href="#tab2" role="tab" aria-controls="tab2" aria-selected="false">VISIÓN</a>
+                <a class="nav-link active" id="tab--2" data-toggle="tab" href="#tab2" role="tab" aria-controls="tab2"
+                  aria-selected="false">VISIÓN</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" id="tab--3" data-toggle="tab" href="#tab3" role="tab" aria-controls="tab3" aria-selected="true">OBJETIVO GENERAL</a>
+                <a class="nav-link" id="tab--3" data-toggle="tab" href="#tab3" role="tab" aria-controls="tab3"
+                  aria-selected="true">OBJETIVO GENERAL</a>
               </li>
             </ul>
 
@@ -186,7 +198,8 @@
                 <div class="academy-tab-content">
                   <!-- Tab Text -->
                   <div class="academy-tab-text">
-                    <h>Un texto narrativo es un relato en el que se cuenta una historia real o ficticia que ocurre en un lugar y tiempo concretos. En la vida cotidiana, la narración .</h>
+                    <h>Un texto narrativo es un relato en el que se cuenta una historia real o ficticia que ocurre en un
+                      lugar y tiempo concretos. En la vida cotidiana, la narración .</h>
                   </div>
                 </div>
               </div>
@@ -194,7 +207,8 @@
                 <div class="academy-tab-content">
                   <!-- Tab Text -->
                   <div class="academy-tab-text">
-                    <p>Un texto narrativo es un relato en el que se cuenta una historia real o ficticia que ocurre en un lugar y tiempo concretos. En la vida cotidiana, la narración .</p>
+                    <p>Un texto narrativo es un relato en el que se cuenta una historia real o ficticia que ocurre en un
+                      lugar y tiempo concretos. En la vida cotidiana, la narración .</p>
                   </div>
                 </div>
               </div>
@@ -202,7 +216,8 @@
                 <div class="academy-tab-content">
                   <!-- Tab Text -->
                   <div class="academy-tab-text">
-                    <p>Un texto narrativo es un relato en el que se cuenta una historia real o ficticia que ocurre en un lugar y tiempo concretos. En la vida cotidiana, la narración .</p>
+                    <p>Un texto narrativo es un relato en el que se cuenta una historia real o ficticia que ocurre en un
+                      lugar y tiempo concretos. En la vida cotidiana, la narración .</p>
                   </div>
                 </div>
               </div>
@@ -328,10 +343,12 @@
           <!-- Footer Widget Area -->
           <div class="col-12 col-sm-6 col-lg-3">
             <div class="footer-widget mb-100">
-              <div class="widget-title">
-                <a href="#"><img src="../img/bg-img/logo.png" alt=""></a>
+              <div style="text-align: center;" class="widget-title">
+                <!-- <a href="#"><img src="img/bg-img/logo.png" alt=""></a> -->
+                <img src="../img/QR.png" alt="" width="200px">
+                <p>¡ESCANEAME!</p>
               </div>
-              <p>CONTROL DE PLANILAS DE PAGO COPAP</p>
+              <p>Redes Sociales</p>
               <div class="footer-social-info">
                 <a href="#"><i class="fa fa-facebook"></i></a>
                 <a href="#"><i class="fa fa-twitter"></i></a>
@@ -363,14 +380,6 @@
               <div class="widget-title">
 
               </div>
-              <div class="gallery-list d-flex justify-content-between flex-wrap">
-                <a href="../img/bg-img/control1.jpg" class="gallery-img" title="Gallery Image 1"><img src="../img/bg-img/control1.jpg" alt=""></a>
-                <a href="../img/bg-img/control2.jpg" class="gallery-img" title="Gallery Image 2"><img src="../img/bg-img/control2.jpg" alt=""></a>
-                <a href="../img/bg-img/control3.jpg" class="gallery-img" title="Gallery Image 3"><img src="../img/bg-img/control3.jpg" alt=""></a>
-                <a href="../img/bg-img/control4.jpg" class="gallery-img" title="Gallery Image 4"><img src="../img/bg-img/control4.jpg" alt=""></a>
-                <a href="../img/bg-img/control5.jpg" class="gallery-img" title="Gallery Image 5"><img src="../img/bg-img/control5.jpg" alt=""></a>
-                <a href="../img/bg-img/control6.jpg" class="gallery-img" title="Gallery Image 6"><img src="../img/bg-img/control6.jpg" alt=""></a>
-              </div>
             </div>
           </div>
           <!-- contactos-->
@@ -389,7 +398,7 @@
               </div>
               <div class="single-contact d-flex">
                 <i class="icon-email"></i>
-                <p>copapoficial@gmail.com</p>
+                <p>copapbandersnatch@gmail.com</p>
               </div>
             </div>
           </div>
@@ -403,13 +412,15 @@
             <p>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
               Copyright &copy;<script>
-                document.write(new Date().getFullYear());
-              </script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="" target="_blank">COPAP</a>
+              document.write(new Date().getFullYear());
+              </script> All rights reserved | This template is made with <i class="fa fa-heart-o"
+                aria-hidden="true"></i> by <a href="" target="_blank">COPAP</a>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
           </div>
         </div>
       </div>
+    </div>
     </div>
   </footer>
   <!-- ##### contactos ##### -->
