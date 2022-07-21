@@ -67,7 +67,7 @@
                   <a href="../index.php"><img src="../img/bg-img/logo.png" alt="" width="120"></a>
                 </div>
                 <ul>
-                  <li><a href="../menu/Modulos.php">Modulos o Servicios</a></li>
+                  <li><a href="../menu/Modulos.php">Módulos o Servicios</a></li>
                   <li><a href="about-us.php">Sobre Nosotros</a></li>
                   <li><a href="contact.php">Contactanos</a></li>
                 </ul>
@@ -78,7 +78,7 @@
             <!-- Calling Info -->
             <div class="calling-info">
               <div class="call-center">
-                <a href="../Login/loginForm.php"><i class="icon-house"></i> <span>INICIAR SESION</span></a>
+                <a href="../Login/loginForm.php"><i class="icon-house"></i> <span>INICIAR SESIÓN</span></a>
               </div>
             </div>
           </nav>
@@ -96,7 +96,7 @@
 
   <div class="breadcumb-area bg-img" style="background-image: url(../img/bg-img/breadcumb.jpg);">
     <div class="bradcumbContent">
-      <h2>COPAP ES TU MEJOR OPCION</h2>
+      <h2>COPAP ES TU MEJOR OPCIÓN</h2>
     </div>
   </div>
   <!-- ##### Breadcumb Area End ##### -->
@@ -135,21 +135,11 @@
       </div>
       <div class="row">
         <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-          <p>Nuestro sistema cuenta con las herramientas necesarias para cubrir las necesidades basicas de tu empresa.
-            Cada dia el mundo laboral crece mas, te enfrentas a diferentes retos, nosotros hacemos que el manejo de yus
-            empleados sea mas facil, organizado y sobre todo, confiable. El manejo adecuado de tu personal es una pieza
-            clave para el buen funcionamiento de tu empresa. Al contar con un sistema que cubre desde el control de
-            horarios hasta el control de pagos te estas evitando el enfrentamiento a futuros predicamentos entre tu
-            equipo de trabajo e incluso legales.</p>
+          <p>Nuestro sistema cuenta con las herramientas necesarias para cubrir las necesidades básicas de tu empresa. Cada día el mundo laboral crece más, te enfrentas a diferentes retos, nosotros hacemos que el manejo de tus empleados sea más fácil, organizado y sobre todo, confiable. El manejo adecuado de tu personal es una pieza clave para el buen funcionamiento de tu empresa. Al contar con un sistema que cubre desde el control de horarios hasta el control de pagos te estás evitando el enfrentamiento a futuros predicamentos entre tu equipo de trabajo e incluso legales.</p>
         </div>
         <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="500ms">
-          <p>Nuestro sistema cuenta con las herramientas necesarias para cubrir las necesidades basicas de tu empresa.
-            Cada dia el mundo laboral crece mas, te enfrentas a diferentes retos, nosotros hacemos que el manejo de yus
-            empleados sea mas facil, organizado y sobre todo, confiable. El manejo adecuado de tu personal es una pieza
-            clave para el buen funcionamiento de tu empresa. Al contar con un sistema que cubre desde el control de
-            horarios hasta el control de pagos te estas evitando el enfrentamiento a futuros predicamentos entre tu
-            equipo de trabajo e incluso legales. </p>
-        </div>
+          <p>Nuestro sistema cuenta con las herramientas necesarias para cubrir las necesidades básicas de tu empresa. Cada día el mundo laboral crece más, te enfrentas a diferentes retos, nosotros hacemos que el manejo de tus empleados sea más fácil, organizado y sobre todo, confiable. El manejo adecuado de tu personal es una pieza clave para el buen funcionamiento de tu empresa. Al contar con un sistema que cubre desde el control de horarios hasta el control de pagos te estás evitando el enfrentamiento a futuros predicamentos entre tu equipo de trabajo e incluso legales.</div>
+
       </div>
       <div class="row">
         <div class="col-12">

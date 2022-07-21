@@ -42,7 +42,7 @@
                     <a href="../index.php"><img src="../img/bg-img/logo.png" alt="" width="120"></a>
                   </div>
                   <ul>
-                    <li><a href="../menu/Modulos.php">Modulos o Servicios</a></li>
+                    <li><a href="../menu/Modulos.php">Módulos o Servicios</a></li>
                     </li>
                     <li><a href="../menu/about-us.php">Sobre Nosotros</a></li>
                     <li><a href="../menu/contact.php">Contactanos</a></li>
@@ -53,7 +53,7 @@
               <!-- Calling Info -->
               <div class="calling-info">
                 <div class="call-center">
-                  <a href="loginform.php"><i class="icon-house"></i> <span>INICIAR SESION</span></a>
+                  <a href="loginform.php"><i class="icon-house"></i> <span>INICIAR SESIÓN</span></a>
                 </div>
               </div>
             </nav>

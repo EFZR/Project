@@ -48,7 +48,7 @@
                     <div class="formulario__grupo-input">
                       <input type="email" class="formulario__input" name="Correo" id="Correo" title="Ingresa el correo elecctronico" placeholder="Correo Electronico" pattern="[a-z0-9_]+([.][a-z0-9_]+)*@[a-z0-9_]+([.][a-z0-9_]+)*[.][a-z]{1,5}" required minlength="12" maxlength="50" onblur="lowerCase('Correo')">
                     </div>
-                    <p class="formulario__input-error">El correo solo puede contener letras, numeros, puntos, guiones y guion bajo.</p>
+                    <p class="formulario__input-error">El correo solo puede contener letras, números, puntos, guiones y guión bajo.</p>
                   </div>
                   <!--Submit-->
                   <div class="formulario__grupo" id="grupo__correo">
@@ -56,7 +56,7 @@
                     <hr>
                     <div class="text-center">
                       <div class="col-sm-200 mb-3 mb-sm-0">
-                        <a class="small " href="Login/loginForm.php">¿Ya tienes un usuario? Inicia sesion</a>
+                        <a class="small " href="Login/loginForm.php">¿Ya tienes un usuario? Inicia sesión</a>
                       </div>
                     </div>
                   </div>

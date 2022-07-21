@@ -50,7 +50,7 @@
                   <a href="index.php"><img src="img/bg-img/logo.png" alt="" width="120"></a>
                 </div>
                 <ul>
-                  <li><a href="../menu/Modulos.php">Modulos o Servicios</a></li>
+                  <li><a href="../menu/Modulos.php">Módulos o Servicios</a></li>
                   <li><a href="menu/about-us.php">Sobre Nosotros</a></li>
                   <li><a href="menu/contact.php">Contactanos</a></li>
                 </ul>
@@ -61,7 +61,7 @@
             <!-- Calling Info -->
             <div class="calling-info">
               <div class="call-center">
-                <a href="Login/loginform.php"><i class="icon-house"></i> <span>INICIAR SESION</span></a>
+                <a href="Login/loginform.php"><i class="icon-house"></i> <span>INICIAR SESIÓN</span></a>
               </div>
             </div>
           </nav>
@@ -159,8 +159,8 @@
               <i class="icon-id-card"></i>
             </div>
             <div class="course-content">
-              <h4>CREACION DE PLANLLAS</h4>
-              <p>Crea planillas de pago que te prporcionaran un control adecuado de pagos</p>
+              <h4>CREACIÓN DE PLANLLAS</h4>
+              <p>Crea planillas de pago que te proporcionaran un control adecuado de pagos</p>
             </div>
           </div>
         </div>
@@ -172,7 +172,7 @@
             </div>
             <div class="course-content">
               <h4>CONTROL DE EMPLEADOS</h4>
-              <p>TE PRROPORCIONAMOS LAS HERRAMIENTAS PARA QUE PUEDAS CONOCER Y MANEJAR MEJOR A TU PERSONAL</p>
+              <p>TE PROPORCIONAMOS LAS HERRAMIENTAS PARA QUE PUEDAS CONOCER Y MANEJAR MEJOR A TU PERSONAL</p>
             </div>
           </div>
         </div>
@@ -195,9 +195,9 @@
               <i class="icon-info"></i>
             </div>
             <div class="course-content">
-              <h4>ACCESO FACIL, RAPIDO PERO TAMBIEN SEGURO</h4>
-              <p>Puedes acceder a tu información a cualquier hora y en cualquier lugar de una forma segura, rapida y
-                confiable</p>
+              <h4>AACCESO FÁCIL, RÁPIDO PERO TAMBIÉN SEGURO</h4>
+              <p>Puedes acceder a tu información a cualquier hora y en cualquier lugar de una forma segura, rápida y confiable</p>
+
             </div>
           </div>
         </div>
@@ -208,7 +208,7 @@
               <i class="icon-responsive"></i>
             </div>
             <div class="course-content">
-              <h4>RESPALDAMOS TU INFORMACION</h4>
+              <h4>RESPALDAMOS TU INFORMACIÓN</h4>
               <p>Todos tus registros son debidamente respaldados</p>
             </div>
           </div>
@@ -238,7 +238,7 @@
         <div class="col-12">
           <div class="section-heading text-center mx-auto white wow fadeInUp" data-wow-delay="900ms">
             <p>ALGUNOS DE NUESTROS CLIENTES</p>
-            <p>ESTA ES LA OPINION DE ALGUNAS DE LAS EMPRESAS QUE HAN DEPOSITADO SU CONFIANZA EN NOSOTROS</p>
+            <p>ESTA ES LA OPINIÓN DE ALGUNAS DE LAS EMPRESAS QUE HAN DEPOSITADO SU CONFIANZA EN NOSOTROS</p>
           </div>
         </div>
       </div>
@@ -315,7 +315,7 @@
           <div class="col-12">
             <div class="cta-content d-flex align-items-center justify-content-between flex-wrap">
               <h3>¿Que esperas para formar parte de COPAP? ¡NO LO PIENSES MAS!</h3>
-              <a href="menu/Modulos.php" class="btn academy-btn">VER MAS</a>
+              <a href="menu/Modulos.php" class="btn academy-btn">VER MÁS</a>
 
             </div>
           </div>

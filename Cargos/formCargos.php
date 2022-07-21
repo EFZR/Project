@@ -80,7 +80,7 @@
                 <polyline points="5 12 3 12 12 3 21 12 19 12" />
                 <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
                 <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
-              </svg> Menu</span></a>
+              </svg> Menú</span></a>
         </li>
 
         <!-- Divisor -->
@@ -276,7 +276,7 @@
                   <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">
                     <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
-                    Cerrar Sesion
+                    Cerrar Sesión
                   </a>
                 </div>
               </li>
@@ -328,7 +328,7 @@
                                                                                                                                                                                                                                                                                   echo $row['DescripcionCargo'];
                                                                                                                                                                                                                                                                                 } ?>" required minlength="5" maxlength="30">
                             </div>
-                            <p class="formulario__input-error">La descripcion de cargo solo acepta letras y el maximo son 30.</p>
+                            <p class="formulario__input-error">La descripción de cargo solo acepta letras y el máximo son 30.</p>
                           </div>
 
                           <!--Grupo: Salario-->
@@ -341,7 +341,7 @@
                                                                                                                                                                                                           echo $row['Salario'];
                                                                                                                                                                                                         } ?>" required minlength="3" maxlength="7">
                             </div>
-                            <p class="formulario__input-error">El salario solo acepta numeros.</p>
+                            <p class="formulario__input-error">El salario solo acepta números.</p>
                           </div>
 
                           <!--Grupo: Departamento-->
@@ -355,7 +355,7 @@
                             <select class="formulario__input" name="Departamentos_idDepartamentos" id="Departamentos_idDepartamentos" title="Seleciona una opcion" <?php if ($action != 1 && $action != 2) {
                                                                                                                                                                       echo 'readonly';
                                                                                                                                                                     } ?> value="" required>
-                              <option value="">Selcciona un departamento</option>
+                              <option value="">Selecciona un departamento</option>
                               <?php while ($ex = mysqli_fetch_assoc($table)) { ?>
                                 <option value=<?php echo $ex['idDepartamentos']; ?> <?php if (isset($row)) {
                                                                                       if ($row['Departamentos_idDepartamentos'] == $ex['idDepartamentos']) {
@@ -462,7 +462,7 @@
             actual.</div>
           <div class="modal-footer">
             <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancelar</button>
-            <a class="btn btn-primary" href="../Login/loginForm.php">Cerrar Sesion</a>
+            <a class="btn btn-primary" href="../Login/loginForm.php">Cerrar Sesión</a>
           </div>
         </div>
       </div>

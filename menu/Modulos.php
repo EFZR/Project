@@ -67,7 +67,7 @@
                   <a href="../index.php"><img src="../img/bg-img/logo.png" alt="" width="120"></a>
                 </div>
                 <ul>
-                  <li><a href="../menu/Modulos.php">Modulos o Servicios</a></li>
+                  <li><a href="../menu/Modulos.php">Módulos o Servicios</a></li>
                   </li>
                   <li><a href="../menu/about-us.php">Sobre Nosotros</a></li>
                   <li><a href="../menu/contact.php">Contactanos</a></li>
@@ -79,7 +79,7 @@
             <!-- Calling Info -->
             <div class="calling-info">
               <div class="call-center">
-                <a href="../Login/loginForm.php"><i class="icon-house"></i> <span>INICIAR SESION</span></a>
+                <a href="../Login/loginForm.php"><i class="icon-house"></i> <span>INICIAR SESIÓN</span></a>
               </div>
             </div>
           </nav>
@@ -106,13 +106,13 @@
         <div class="col-12">
           <div class="elements-title mb-50">
             <span>CONTROL DE PLANILLAS DE PAGO</span>
-            <h2>NUESTROS MODULOS</h2>
+            <h2>NUESTROS MÓDULOS</h2>
           </div>
           <!-- Selene Button -->
           <div class="academy-buttons-area mb-100">
             <a href="#" class="btn academy-btn m-2">CONTROL DE EMPLEADOS </a>
             <a href="#" class="btn academy-btn btn-2 m-2">REGISTRO DE HORARIOS</a>
-            <a href="#" class="btn academy-btn btn-3 m-2">CREACION DE PLANILLAS DE PAGO</a>
+            <a href="#" class="btn academy-btn btn-3 m-2">CREACIÓN DE PLANILLAS DE PAGO</a>
             <a href="#" class="btn academy-btn btn-4 m-2">REPORTES DE PLANILLA</a>
           </div>
         </div>
@@ -120,8 +120,8 @@
         <!-- ========== Progress Bars & Accordions ========== -->
         <div class="col-12">
           <div class="elements-title mb-50">
-            <span>DESCRIPCION</span>
-            <h2> DE NUESTROS MODULOS</h2>
+            <span>DESCRIPCIÓN</span>
+            <h2> DE NUESTROS MÓDULOS</h2>
           </div>
         </div>
 
@@ -135,7 +135,7 @@
                   <span class="accor-close"><i class="fa fa-minus" aria-hidden="true"></i></span>
                 </a></h6>
               <div id="collapseOne" class="accordion-content collapse show">
-                <h>Podras genrar reportes de tus empleados segun su jornada, horas trabajadas, salario, y cualquie clasificación que necesites incorporar.</h>
+                <h>Podrás generar reportes de tus empleados según su jornada, horas trabajadas, salario, y cualquier clasificación que necesites incorporar.</h>
               </div>
             </div>
             <!-- single accordian area -->
@@ -147,13 +147,13 @@
                 </a>
               </h6>
               <div id="collapseTwo" class="accordion-content collapse">
-                <h>Si no eres el unico administrador de tu empresa tambien tenemos una propuesta para ti. Con nuestro plan multiusuario podras crear tres perfiles en nuestro sistema y asignar los modulos de acceso segun el rol de cada usuario.</h>
+                <h>Si no eres el único administrador de tu empresa también tenemos una propuesta para ti. Con nuestro plan multiusuario podrás crear tres perfiles en nuestro sistema y asignar los módulos de acceso según el rol de cada usuario.</h>
               </div>
             </div>
             <!-- single accordian area -->
             <div class="panel single-accordion">
               <h6>
-                <a role="button" aria-expanded="true" aria-controls="collapseThree" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseThree"> CREACION Y REGISTRO DE PLANILLAS
+                <a role="button" aria-expanded="true" aria-controls="collapseThree" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseThree"> CREACIÓN Y REGISTRO DE PLANILLAS
                   <span class="accor-open"><i class="fa fa-plus" aria-hidden="true"></i></span>
                   <span class="accor-close"><i class="fa fa-minus" aria-hidden="true"></i></span>
                 </a>
@@ -171,10 +171,10 @@
           <div class="academy-tabs-content">
             <ul class="nav nav-tabs" id="myTab" role="tablist">
               <li class="nav-item">
-                <a class="nav-link" id="tab--1" data-toggle="tab" href="#tab1" role="tab" aria-controls="tab1" aria-selected="false">MISION</a>
+                <a class="nav-link" id="tab--1" data-toggle="tab" href="#tab1" role="tab" aria-controls="tab1" aria-selected="false">MISIÓN</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" id="tab--2" data-toggle="tab" href="#tab2" role="tab" aria-controls="tab2" aria-selected="false">VISION</a>
+                <a class="nav-link active" id="tab--2" data-toggle="tab" href="#tab2" role="tab" aria-controls="tab2" aria-selected="false">VISIÓN</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" id="tab--3" data-toggle="tab" href="#tab3" role="tab" aria-controls="tab3" aria-selected="true">OBJETIVO GENERAL</a>
@@ -294,7 +294,7 @@
                 </div>
                 <div class="course-content">
                   <h4>SEGURIDAD</h4>
-                  <p>&nbsp;&nbsp;INTEGRIDAD DE TU INFORMACION</p>
+                  <p>&nbsp;&nbsp;INTEGRIDAD DE TU INFORMACIÓN</p>
                 </div>
               </div>
             </div>
@@ -307,7 +307,7 @@
                 </div>
                 <div class="course-content">
                   <h4>ACCESO</h4>
-                  <p>&nbsp;&nbsp;SEGURO, FACIL Y RAPIDO</p>
+                  <p>&nbsp;&nbsp;SEGURO, FÁCIL Y RÁPIDO</p>
                 </div>
               </div>
             </div>

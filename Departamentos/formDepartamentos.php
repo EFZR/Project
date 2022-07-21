@@ -9,7 +9,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Modificacion de Departamento</title>
+  <title>Modificación de Departamento</title>
   <!-- FUENTES-->
   <link href="../vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
@@ -79,7 +79,7 @@
               <polyline points="5 12 3 12 12 3 21 12 19 12" />
               <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
               <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
-            </svg> Menu</span></a>
+            </svg> Menú</span></a>
       </li>
 
       <!-- Divisor -->
@@ -284,7 +284,7 @@
                 <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">
                   <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
-                  Cerrar Sesion
+                  Cerrar Sesión
                 </a>
               </div>
             </li>
@@ -329,7 +329,7 @@
                                                                                                                                                                                                                                                                                                                                                         echo $row['DescripcionDepto'];
                                                                                                                                                                                                                                                                                                                                                       } ?>" required minlength="5" maxlength="30">
                           </div>
-                          <p class="formulario__input-error">La descripcion del nombre del departamento solo acepta letras y el maximo son 30.</p>
+                          <p class="formulario__input-error">La descripción del nombre del departamento solo acepta letras y el máximo son 30.</p>
                         </div>
                         <!--Grupo: Estado-->
                         <div class="formulario__grupo" id="grupo__estado">
@@ -418,7 +418,7 @@
           actual.</div>
         <div class="modal-footer">
           <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancelar</button>
-          <a class="btn btn-primary" href="../Login/loginForm.php">Cerrar Sesion</a>
+          <a class="btn btn-primary" href="../Login/loginForm.php">Cerrar Sesión</a>
         </div>
       </div>
     </div>

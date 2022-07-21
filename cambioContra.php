@@ -54,7 +54,7 @@
                     <div class="formulario__grupo-input">
                       <input type="text" class="formulario__input" name="contraseña" id="contraseña" title="Ingresa contraseña nueva" placeholder="Contraseña nueva" required minlength="8" maxlength="15">
                     </div>
-                    <p class="formulario__input-error">La contraseña debe contener entre 8 a 15 digitos.</p>
+                    <p class="formulario__input-error">La contraseña debe contener entre 8 a 15 dígitos.</p>
                   </div>
                   <!--Grupo: Contraseña 2-->
                   <div class="formulario__grupo" id="grupo__contraseña2">

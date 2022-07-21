@@ -55,7 +55,7 @@
                   <a href="../index.php"><img src="../img/bg-img/logo.png" alt="" width="120"></a>
                 </div>
                 <ul>
-                  <li><a href="../menu/Modulos.php">Modulos o Servicios</a></li>
+                  <li><a href="../menu/Modulos.php">Módulos o Servicios</a></li>
 
 
                   <li><a href="about-us.php">Sobre Nosotros</a></li>
@@ -108,8 +108,9 @@
                       <img src="../img/contactanosC.png" alt="" width="200">
                       <hr>
                     </div>
-                    <h class="mt-30">Envianos un correo electronico y con gusto te atenderemos resolviendo todas tus
-                      dudas</h>
+
+                    <h class="mt-30">Envianos un correo electrónico y con gusto te atenderemos resolviendo todas tus dudas</h>
+
                   </div>
                   <!-- Single Contact Info -->
                   <div class="single-contact-info d-flex">
@@ -136,7 +137,7 @@
                           placeholder="Nombre Completo" required minlength="12" maxlength="50">
 
                       </div>
-                      <p class="formulario__input-error">Este tiene que ser de 12 a 50 digitos y solo puede contener
+                      <p class="formulario__input-error">Este tiene que ser de 12 a 50 dígitos y solo puede contener
                         letras.</p>
                     </div>
 
@@ -148,8 +149,7 @@
                           pattern="[a-z0-9_]+([.][a-z0-9_]+)*@[a-z0-9_]+([.][a-z0-9_]+)*[.][a-z]{1,5}" required
                           minlength="12" maxlength="50" onblur="lowerCase('Correo')">
                       </div>
-                      <p class="formulario__input-error">El correo solo puede contener letras, numeros, puntos, guiones
-                        y guion bajo.
+                      <p class="formulario__input-error">El correo solo puede contener letras, números, puntos, guiones y guión bajo.
                       </p>
                     </div>
 
@@ -160,7 +160,7 @@
                           cols="30" rows=50 minlength="8" maxlength="150" required></textarea>
                       </div>
                       <div id="contador">0/150</div>
-                      <p class="formulario__input-error">Este tiene que ser de 12 a 50 digitos y solo puede contener
+                      <p class="formulario__input-error">Este tiene que ser de 12 a 50 dígitos y solo puede contener
                         letras.</p>
                     </div>
 

@@ -77,7 +77,7 @@
               <polyline points="5 12 3 12 12 3 21 12 19 12" />
               <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
               <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
-            </svg> Menu</span></a>
+            </svg> Menú</span></a>
       </li>
 
       <!-- Divisor -->
@@ -271,7 +271,7 @@
                 <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">
                   <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
-                  Cerrar Sesion
+                  Cerrar Sesión
                 </a>
               </div>
             </li>
@@ -319,8 +319,8 @@
                                                                                                                                                                                                                                                                                                                                                                 echo $row['Cedula'];
                                                                                                                                                                                                                                                                                                                                                               } ?>" required minlength="13" maxlength="13">
                           </div>
-                          <p class="formulario__input-error">El numero de identidad solo puede contener numeros y el
-                            maximo son 13.</p>
+                          <p class="formulario__input-error">El número de identidad solo puede contener números y el
+                            máximo son 13.</p>
                         </div>
                         <!--Grupo: Sexo-->
                         <div class="formulario__grupo" id="grupo__sexo">
@@ -344,7 +344,7 @@
                                                                                                                                                                                                                                                                                     echo $row['PrimerNombre'];
                                                                                                                                                                                                                                                                                   } ?>" required minlength="3" maxlength="15" onblur="upperCase('PrimerNombre')">
                           </div>
-                          <p class="formulario__input-error">EL primer nombre tiene que ser de 3 a 15 digitos y solo
+                          <p class="formulario__input-error">EL primer nombre tiene que ser de 3 a 15 dígitos y solo
                             puede contener
                             letras.</p>
                         </div>
@@ -357,7 +357,7 @@
                                                                                                                                                                                                                                                                                                                               echo $row['SegundoNombre'];
                                                                                                                                                                                                                                                                                                                             } ?>" minlength="3" maxlength="15" onblur="upperCase('SegundoNombre')">
                           </div>
-                          <p class="formulario__input-error">EL segundo nombre tiene que ser de 3 a 15 digitos y solo
+                          <p class="formulario__input-error">EL segundo nombre tiene que ser de 3 a 15 dígitos y solo
                             puede contener
                             letras.</p>
                         </div>
@@ -370,7 +370,7 @@
                                                                                                                                                                                                                                                                                             echo $row['PrimerApellido'];
                                                                                                                                                                                                                                                                                           } ?>" required minlength="3" maxlength="15" onblur="upperCase('PrimerApellido')">
                           </div>
-                          <p class="formulario__input-error">EL primer apellido tiene que ser de 3 a 15 digitos y solo
+                          <p class="formulario__input-error">EL primer apellido tiene que ser de 3 a 15 dígitos y solo
                             puede contener
                             letras.</p>
                         </div>
@@ -383,32 +383,32 @@
                                                                                                                                                                                                                                                                                                                                       echo $row['SegundoApellido'];
                                                                                                                                                                                                                                                                                                                                     } ?>" minlength="3" maxlength="15" onblur="upperCase('SegundoApellido')">
                           </div>
-                          <p class="formulario__input-error">EL segundo apellido tiene que ser de 3 a 15 digitos y solo
+                          <p class="formulario__input-error">EL segundo apellido tiene que ser de 3 a 15 dígitos y solo
                             puede contener
                             letras.</p>
                         </div>
 
-                        <!--Grupo: Telefono-->
+                        <!--Grupo: Teléfono-->
                         <div class="formulario__grupo" id="grupo__telefono">
-                          <label for="Telefono" class="formulario__label">Telefono</label>
+                          <label for="Telefono" class="formulario__label">Teléfono</label>
                           <div class="formulario__grupo-input">
                             <input type="text" class="formulario__input" name="Telefono" id="Telefono" title="Ingresa telefono" <?php if ($action != 1 && $action != 2) echo "readonly" ?> pattern="[2389]{1}[0-9]{7}" onkeypress="return soloNumeros(event)" placeholder="Telefono" value="<?php if (isset($row)) {
                                                                                                                                                                                                                                                                                               echo $row['Telefono'];
                                                                                                                                                                                                                                                                                             } ?>" minlength="8" required maxlength="8">
                           </div>
-                          <p class="formulario__input-error">El telefono solo puede contener numeros, debe iniciar con
-                            2, 3, 8 o 9 y el maximo son 8.</p>
+                          <p class="formulario__input-error">El télefono solo puede contener números, debe iniciar con
+                            2, 3, 8 o 9 y el máximo son 8.</p>
                         </div>
 
-                        <!--Grupo: Direccion-->
+                        <!--Grupo: Dirección-->
                         <div class="formulario__grupo" id="grupo__Direccion">
-                          <label for="Direccion" class="formulario__label">Direccion</label>
+                          <label for="Direccion" class="formulario__label">Dirección</label>
                           <div class="formulario__grupo-input">
                             <input type="text" class=" formulario__input" name="Direccion" id="Direccion" title="Ingresa dirección" <?php if ($action != 1 && $action != 2) echo "readonly" ?> onkeypress="return soloLetrasYespeciales(event)" placeholder="Direccion" value="<?php if (isset($row)) {
                                                                                                                                                                                                                                                                                   echo $row['Direccion'];
                                                                                                                                                                                                                                                                                 } ?>" required minlength="3" maxlength="50" onblur="upperCase('Direccion')">
                           </div>
-                          <p class="formulario__input-error">La direccion tiene que ser de 3 a 50 digitos y solo puede
+                          <p class="formulario__input-error">La dirección tiene que ser de 3 a 50 dígitos y solo puede
                             contener
                             letras.</p>
                         </div>
@@ -515,16 +515,16 @@
                           </div>
                         </div>
 
-                        <!--Grupo: Correo Elecronico-->
+                        <!--Grupo: Correo Electrónico-->
                         <div class="formulario__grupo" id="grupo__correo">
-                          <label for="Correo" class="formulario__label">Correo Elecronico</label>
+                          <label for="Correo" class="formulario__label">Correo Electrónico</label>
                           <div class="formulario__grupo-input">
                             <input type="email" class="formulario__input" name="Correo" id="Correo" title="Ingresa el correo elecctronico" <?php if ($action != 1 && $action != 2) echo "readonly" ?> placeholder="Correo Electronico" value="<?php if (isset($row)) {
                                                                                                                                                                                                                                                 echo $row['Correo'];
                                                                                                                                                                                                                                               } ?>" pattern="[a-z0-9_]+([.][a-z0-9_]+)*@[a-z0-9_]+([.][a-z0-9_]+)*[.][a-z]{1,5}" required minlength="12" maxlength="50" onblur="lowerCase('Correo')">
                           </div>
-                          <p class="formulario__input-error">El correo solo puede contener letras, numeros, puntos,
-                            guiones y guion bajo.
+                          <p class="formulario__input-error">El correo solo puede contener letras, números, puntos,
+                            guiones y guión bajo.
                           </p>
                         </div>
 
@@ -536,7 +536,7 @@
                                                                                                                                                                                                                                                                                                 echo $row['CuentaBancaria'];
                                                                                                                                                                                                                                                                                               } ?>" required maxlength="15">
                           </div>
-                          <p class="formulario__input-error">La cuenta bancaria solo puede contener numeros y el maximo
+                          <p class="formulario__input-error">La cuenta bancaria solo puede contener números y el máximo
                             son 15.</p>
                         </div>
 
@@ -615,7 +615,7 @@
           actual.</div>
         <div class="modal-footer">
           <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancelar</button>
-          <a class="btn btn-primary" href="../Login/loginForm.php">Cerrar Sesion</a>
+          <a class="btn btn-primary" href="../Login/loginForm.php">Cerrar Sesión</a>
         </div>
       </div>
     </div>
