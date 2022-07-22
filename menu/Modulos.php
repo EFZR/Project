@@ -137,8 +137,9 @@
                   <span class="accor-close"><i class="fa fa-minus" aria-hidden="true"></i></span>
                 </a></h6>
               <div id="collapseOne" class="accordion-content collapse show">
-                <h>Podrás generar reportes de tus empleados según su jornada, horas trabajadas, salario, y cualquier
-                  clasificación que necesites incorporar.</h>
+
+                <h>Podrás generar reportes de tus empleados según su jornada, horas trabajadas, salario, y cualquier clasificación que necesites incorporar.</h>
+
               </div>
             </div>
             <!-- single accordian area -->
@@ -151,17 +152,17 @@
                 </a>
               </h6>
               <div id="collapseTwo" class="accordion-content collapse">
-                <h>Si no eres el único administrador de tu empresa también tenemos una propuesta para ti. Con nuestro
-                  plan multiusuario podrás crear tres perfiles en nuestro sistema y asignar los módulos de acceso según
-                  el rol de cada usuario.</h>
+
+                <h>Si no eres el único administrador de tu empresa también tenemos una propuesta para ti. Con nuestro plan multiusuario podrás crear tres perfiles en nuestro sistema y asignar los módulos de acceso según el rol de cada usuario.</h>
+
               </div>
             </div>
             <!-- single accordian area -->
             <div class="panel single-accordion">
               <h6>
-                <a role="button" aria-expanded="true" aria-controls="collapseThree" class="collapsed"
-                  data-parent="#accordion" data-toggle="collapse" href="#collapseThree"> CREACIÓN Y REGISTRO DE
-                  PLANILLAS
+
+                <a role="button" aria-expanded="true" aria-controls="collapseThree" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseThree"> CREACIÓN Y REGISTRO DE PLANILLAS
+
                   <span class="accor-open"><i class="fa fa-plus" aria-hidden="true"></i></span>
                   <span class="accor-close"><i class="fa fa-minus" aria-hidden="true"></i></span>
                 </a>
@@ -180,12 +181,12 @@
           <div class="academy-tabs-content">
             <ul class="nav nav-tabs" id="myTab" role="tablist">
               <li class="nav-item">
-                <a class="nav-link" id="tab--1" data-toggle="tab" href="#tab1" role="tab" aria-controls="tab1"
-                  aria-selected="false">MISIÓN</a>
+
+                <a class="nav-link" id="tab--1" data-toggle="tab" href="#tab1" role="tab" aria-controls="tab1" aria-selected="false">MISIÓN</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" id="tab--2" data-toggle="tab" href="#tab2" role="tab" aria-controls="tab2"
-                  aria-selected="false">VISIÓN</a>
+                <a class="nav-link active" id="tab--2" data-toggle="tab" href="#tab2" role="tab" aria-controls="tab2" aria-selected="false">VISIÓN</a>
+
               </li>
               <li class="nav-item">
                 <a class="nav-link" id="tab--3" data-toggle="tab" href="#tab3" role="tab" aria-controls="tab3"

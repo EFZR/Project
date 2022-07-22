@@ -195,9 +195,10 @@
               <i class="icon-info"></i>
             </div>
             <div class="course-content">
-              <h4>ACCESO FÁCIL, RÁPIDO PERO TAMBIÉN SEGURO</h4>
-              <p>Puedes acceder a tu información a cualquier hora y en cualquier lugar de una forma segura, rápida y
-                confiable</p>
+
+              <h4>AACCESO FÁCIL, RÁPIDO PERO TAMBIÉN SEGURO</h4>
+              <p>Puedes acceder a tu información a cualquier hora y en cualquier lugar de una forma segura, rápida y confiable</p>
+
 
             </div>
           </div>

@@ -109,8 +109,9 @@
                       <hr>
                     </div>
 
-                    <h class="mt-30">Envianos un correo electrónico y con gusto te atenderemos resolviendo todas tus
-                      dudas</h>
+
+                    <h class="mt-30">Envianos un correo electrónico y con gusto te atenderemos resolviendo todas tus dudas</h>
+
 
                   </div>
                   <!-- Single Contact Info -->
@@ -150,8 +151,9 @@
                           pattern="[a-z0-9_]+([.][a-z0-9_]+)*@[a-z0-9_]+([.][a-z0-9_]+)*[.][a-z]{1,5}" required
                           minlength="12" maxlength="50" onblur="lowerCase('Correo')">
                       </div>
-                      <p class="formulario__input-error">El correo solo puede contener letras, números, puntos, guiones
-                        y guión bajo.
+
+                      <p class="formulario__input-error">El correo solo puede contener letras, números, puntos, guiones y guión bajo.
+
                       </p>
                     </div>
 

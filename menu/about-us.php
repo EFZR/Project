@@ -135,21 +135,12 @@
       </div>
       <div class="row">
         <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-          <p>Nuestro sistema cuenta con las herramientas necesarias para cubrir las necesidades básicas de tu empresa.
-            Cada día el mundo laboral crece más, te enfrentas a diferentes retos, nosotros hacemos que el manejo de tus
-            empleados sea más fácil, organizado y sobre todo, confiable. El manejo adecuado de tu personal es una pieza
-            clave para el buen funcionamiento de tu empresa. Al contar con un sistema que cubre desde el control de
-            horarios hasta el control de pagos te estás evitando el enfrentamiento a futuros predicamentos entre tu
-            equipo de trabajo e incluso legales.</p>
+
+          <p>Nuestro sistema cuenta con las herramientas necesarias para cubrir las necesidades básicas de tu empresa. Cada día el mundo laboral crece más, te enfrentas a diferentes retos, nosotros hacemos que el manejo de tus empleados sea más fácil, organizado y sobre todo, confiable. El manejo adecuado de tu personal es una pieza clave para el buen funcionamiento de tu empresa. Al contar con un sistema que cubre desde el control de horarios hasta el control de pagos te estás evitando el enfrentamiento a futuros predicamentos entre tu equipo de trabajo e incluso legales.</p>
         </div>
         <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="500ms">
-          <p>Nuestro sistema cuenta con las herramientas necesarias para cubrir las necesidades básicas de tu empresa.
-            Cada día el mundo laboral crece más, te enfrentas a diferentes retos, nosotros hacemos que el manejo de tus
-            empleados sea más fácil, organizado y sobre todo, confiable. El manejo adecuado de tu personal es una pieza
-            clave para el buen funcionamiento de tu empresa. Al contar con un sistema que cubre desde el control de
-            horarios hasta el control de pagos te estás evitando el enfrentamiento a futuros predicamentos entre tu
-            equipo de trabajo e incluso legales.
-        </div>
+          <p>Nuestro sistema cuenta con las herramientas necesarias para cubrir las necesidades básicas de tu empresa. Cada día el mundo laboral crece más, te enfrentas a diferentes retos, nosotros hacemos que el manejo de tus empleados sea más fácil, organizado y sobre todo, confiable. El manejo adecuado de tu personal es una pieza clave para el buen funcionamiento de tu empresa. Al contar con un sistema que cubre desde el control de horarios hasta el control de pagos te estás evitando el enfrentamiento a futuros predicamentos entre tu equipo de trabajo e incluso legales.</div>
+
 
       </div>
       <div class="row">
