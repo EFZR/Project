@@ -82,7 +82,7 @@
               <polyline points="5 12 3 12 12 3 21 12 19 12" />
               <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
               <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
-            </svg> Menú</span></a>
+            </svg> Menu</span></a>
       </li>
 
       <!-- Divisor -->
@@ -359,7 +359,7 @@
                 <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">
                   <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
-                  Cerrar Sesión
+                  Cerrar Sesion
                 </a>
               </div>
             </li>
@@ -390,100 +390,87 @@
           </section><!-- #intro -->
 
           <!-- #intro -->
-          <main id="main">
-            <!--OPCIONES-->
-            <section id="services" class="section-bg">
-              <div class="container">
+          <main id=" main">
+                    <!--OPCIONES-->
+                    <section id="services" class="section-bg">
+                      <div class="container">
 
-                <header class="section-header">
-                  <h3>¿Necesitas ayuda para usar COPAP?</h3>
-                  <p>Conoce más sobre </p>
-                  <p></p>
-                </header>
-                <br></br>
-                <br></br>
-                <div class="row">
+                        <header class="section-header">
+                          <h3>¿Necesitas ayuda para usar COPAP?</h3>
+                          <p>Conoce mas sobre </p>
+                          <p></p>
+                        </header>
+                        <br></br>
+                        <br></br>
+                        <div class="row">
 
-                  <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-duration="1.4s">
-                    <div class="box">
-                      <div class="icon"><i class="ion-ios-paper-outline" style="color: #c5793ae0;;"></i></div>
-                      <h4 class="title"><a href="Planilla/historialPlanillas.php?idUsuario=<?php echo $Usuario ?>&Empresas_idEmpresas=<?php echo $Empresa ?>">Planillas
-                          de pago</a></h4>
-                      <p class="description"> Accede al registro almacenado de tus planillas de pago. </p>
-                    </div>
-                  </div>
-                  <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-duration="1.4s">
-                    <div class="box">
-                      <div class="icon"><i class="ion-ios-paper-outline" style="color: #e9bf06;"></i></div>
-                      <h4 class="title"><a href="Planilla/creacionPlanilla.php?idUsuario=<?php echo $Usuario ?>&Empresas_idEmpresas=<?php echo $Empresa ?>">Crear
-                          Nueva Planilla</a></h4>
-                      <p class="description">Generar una nueva planilla de pago es mucho más fácil de lo que te imaginas
-                      </p>
-                    </div>
-                  </div>
+                          <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-duration="1.4s">
+                            <div class="box">
+                              <div class="icon"><i class="ion-ios-paper-outline" style="color: #c5793ae0;;"></i></div>
+                              <h4 class="title"><a
+                                  href="Planilla/historialPlanillas.php?idUsuario=<?php echo $Usuario ?>&Empresas_idEmpresas=<?php echo $Empresa ?>">Planillas
+                                  de pago</a></h4>
+                              <p class="description"> Accede al registro almacenado de tus planillas de pago. </p>
+                            </div>
+                          </div>
+                          <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-duration="1.4s">
+                            <div class="box">
+                              <div class="icon"><i class="ion-ios-paper-outline" style="color: #e9bf06;"></i></div>
+                              <h4 class="title"><a
+                                  href="Planilla/creacionPlanilla.php?idUsuario=<?php echo $Usuario ?>&Empresas_idEmpresas=<?php echo $Empresa ?>">Crear
+                                  Nueva Planilla</a></h4>
+                              <p class="description">Generar una nueva planilla de pago es mucho mas facil de lo que te
+                                imaginas
+                              </p>
+                            </div>
+                          </div>
 
-                  <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
-                    <div class="box">
-                      <div class="icon"><i class="ion-man" style="color: #c5793ae0;"></i></div>
-                      <h4 class="title"><a href="Empleados/tablas.php?idUsuario=<?php echo $Usuario ?>&Empresas_idEmpresas=<?php echo $Empresa ?>">Empleados</a>
-                      </h4>
-                      <p class="description">Accede al registro de tus empleados de forma, fácil, rápida y sobre todo
-                        eficiente</p>
-                    </div>
-                  </div>
-                  <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
-                    <div class="box">
-                      <div class="icon"><i class="ion-woman" style="color:#c5793ae0;"></i></div>
-                      <h4 class="title"><a href="Empleados/crearEmpleado.php?idUsuario=<?php echo $Usuario ?>&Empresas_idEmpresas=<?php echo $Empresa ?>">Agregar
-                          un Nuevo Empleado</a></h4>
-                      <p class="description">¡Tu compañia cada dìa crece màs! ingresa la informaciòn del nuevo
-                        integrante de tu grupo de empleados</p>
-                    </div>
-                  </div>
+                          <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.1s"
+                            data-wow-duration="1.4s">
+                            <div class="box">
+                              <div class="icon"><i class="ion-man" style="color: #c5793ae0;"></i></div>
+                              <h4 class="title"><a
+                                  href="Empleados/tablas.php?idUsuario=<?php echo $Usuario ?>&Empresas_idEmpresas=<?php echo $Empresa ?>">Empleados</a>
+                              </h4>
+                              <p class="description">Accede al registro de tus empleados de forma, facil, rapida y sobre
+                                todo
+                                eficiente</p>
+                            </div>
+                          </div>
+                          <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+                            <div class="box">
+                              <div class="icon"><i class="ion-woman" style="color:#c5793ae0;"></i></div>
+                              <h4 class="title"><a
+                                  href="Empleados/crearEmpleado.php?idUsuario=<?php echo $Usuario ?>&Empresas_idEmpresas=<?php echo $Empresa ?>">Agregar
+                                  un Nuevo Empleado</a></h4>
+                              <p class="description">¡Tu compañia cada dìa crece màs! ingresa la informaciòn del nuevo
+                                integrante de tu grupo de empleados</p>
+                            </div>
+                          </div>
 
-                  <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
-                    <div class="box">
-                      <div class="icon"><i class="ion-more" style="color: #c5793ae0;"></i></div>
-                      <h4 class="title"><a href="Cargos/TablaCargos.php?idUsuario=<?php echo $Usuario ?>&Empresas_idEmpresas=<?php echo $Empresa ?>">Cargos</a>
-                      </h4>
-                      <p class="description">Accede a la informaciòn de los distintos cargos con los que cuenta tu
-                        empresa</p>
-                    </div>
-                  </div>
-                  <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
-                    <div class="box">
-                      <div class="icon"><i class="ion-location" style="color: #c5793ae0;"></i></div>
-                      <h4 class="title"><a href="Ciudades/TablaCiudades.php?idUsuario=<?php echo $Usuario ?>&Empresas_idEmpresas=<?php echo $Empresa ?>">Ciudades</a>
-                      </h4>
-                      <p class="description">Tu empresa genera funtes de ingresos para familias de Honduras, explora las
-                        diferentes ciudades a las que pertenecen tus empleados</p>
-                    </div>
-                  </div>
-
-                </div>
-
-              </div>
-            </section><!-- #services -->
-            <!--Portafolio de Infografias-->
-            <section id="portfolio" class="clearfix">
-              <div class="container">
-
-                <header class="section-header">
-                  <h3 class="section-title">Galeria de Infografias</h3>
-                </header>
-
-                <div class="row">
-                  <div class="col-lg-12">
-                    <ul id="portfolio-flters">
-                      <li data-filter="*" class="filter-active">Todo</li>
-                      <li data-filter=".filter-plantilla">Planillas</li>
-                      <li data-filter=".filter-empleados">Empleados</li>
-                      <li data-filter=".filter-contraseña">Recuperar Contraseña</li>
-                    </ul>
-                  </div>
-                </div>
-
-                <div class="row portfolio-container">
+                          <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.2s"
+                            data-wow-duration="1.4s">
+                            <div class="box">
+                              <div class="icon"><i class="ion-more" style="color: #c5793ae0;"></i></div>
+                              <h4 class="title"><a
+                                  href="Cargos/TablaCargos.php?idUsuario=<?php echo $Usuario ?>&Empresas_idEmpresas=<?php echo $Empresa ?>">Cargos</a>
+                              </h4>
+                              <p class="description">Accede a la informaciòn de los distintos cargos con los que cuenta
+                                tu
+                                empresa</p>
+                            </div>
+                          </div>
+                          <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+                            <div class="box">
+                              <div class="icon"><i class="ion-location" style="color: #c5793ae0;"></i></div>
+                              <h4 class="title"><a
+                                  href="Ciudades/TablaCiudades.php?idUsuario=<?php echo $Usuario ?>&Empresas_idEmpresas=<?php echo $Empresa ?>">Ciudades</a>
+                              </h4>
+                              <p class="description">Tu empresa genera funtes de ingresos para familias de Honduras,
+                                explora las
+                                diferentes ciudades a las que pertenecen tus empleados</p>
+                            </div>
+                          </div>
 
                         </div>
 
@@ -644,43 +631,31 @@
 
                         </div>
 
-                  <div class="col-lg-4 col-md-6 portfolio-item filter-empleados" data-wow-delay="0.2s">
-                    <div class="portfolio-wrap">
-                      <img src="img/imgi/portfolio/E1.jpeg" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>Consejos Útiles</h4>
-                        <p>Ver</p>
-                        <div>
-                          <a href="img/imgi/portfolio/Emp1.png" class="link-preview" data-lightbox="portfolio" data-title="App 3" title="Empleados"><i class="ion ion-eye"></i></a>
-                        </div>
                       </div>
                     </section><!-- #portfolio -->
                 </div>
 
-                  <div class="col-lg-4 col-md-6 portfolio-item filter-contraseña">
-                    <div class="portfolio-wrap">
-                      <img src="img/imgi/portfolio/C1.jpeg" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>Reestablecer Contraseña 1</h4>
-                        <p>Ver</p>
-                        <div>
-                          <a href="img/imgi/portfolio/anexo3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Contraseña" title="Preview"><i class="ion ion-eye"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+              </div>
+              <!-- Envoltorio de fin de contenido -->
 
-                  <div class="col-lg-4 col-md-6 portfolio-item filter-contraseña" data-wow-delay="0.1s">
-                    <div class="portfolio-wrap">
-                      <img src="img/imgi/portfolio/anexo1.jpg" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>Reestablecer Contraseña 2</h4>
-                        <p>Ver</p>
-                        <div>
-                          <a href="img/imgi/portfolio/anexo1.jpg" class="link-preview" data-lightbox="portfolio" data-title="Contraseña" title="Preview"><i class="ion ion-eye"></i></a>
-                        </div>
-                      </div>
-                    </div>
+            </div>
+            <!-- Envoltorio de fin de página -->
+
+            <!-- Desplácese al botón superiorn-->
+            <a class="scroll-to-top rounded" href="#page-top">
+              <i class="fas fa-angle-up"></i>
+            </a>
+
+            <!-- Cierre de sesión modal-->
+            <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+              aria-hidden="true">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">¿Seguro que deseas salir?</h5>
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">×</span>
+                    </button>
                   </div>
                   <div class="modal-body">Selecciona "Cerrar sesión" a continuación si está listo para finalizar su
                     sesión
@@ -692,99 +667,69 @@
                 </div>
               </div>
             </div>
-      </div>
-      <!-- Envoltorio de fin de contenido -->
 
-    </div>
-    <!-- Envoltorio de fin de página -->
+            <!-- JavaScript básico de Bootstrap-->
+            <script src="../vendor/jquery/jquery.min.js"></script>
+            <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-    <!-- Desplácese al botón superiorn-->
-    <a class="scroll-to-top rounded" href="#page-top">
-      <i class="fas fa-angle-up"></i>
-    </a>
+            <!-- Complemento principal de JavaScript-->
+            <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>
 
-    <!-- Cierre de sesión modal-->
-    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-      <div class="modal-dialog" role="document">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLabel">¿Seguro que deseas salir?</h5>
-            <button class="close" type="button" data-dismiss="modal" aria-label="Close">
-              <span aria-hidden="true">×</span>
-            </button>
-          </div>
-          <div class="modal-body">Selecciona "Cerrar sesión" a continuación si está listo para finalizar su sesión
-            actual.</div>
-          <div class="modal-footer">
-            <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancelar</button>
-            <a class="btn btn-primary" href="../Login/loginForm.php">Cerrar Sesión</a>
-          </div>
-        </div>
-      </div>
-    </div>
+            <!-- Scripts personalizados para todas las páginas-->
+            <script src="../js/sb-admin-2.min.js"></script>
 
-    <!-- JavaScript básico de Bootstrap-->
-    <script src="../vendor/jquery/jquery.min.js"></script>
-    <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+            <!-- Complementos de nivel de página -->
+            <script src="../vendor/chart.js/Chart.min.js"></script>
 
-    <!-- Complemento principal de JavaScript-->
-    <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>
+            <!-- Scripts personalizados a nivel de página -->
+            <script src="../js/demo/chart-area-demo.js"></script>
+            <script src="../js/demo/chart-pie-demo.js"></script>
+            <!-- Scripts Validacion de Formulario -->
+            <script src="../js/formulario.js"></script>
+            <!-- JavaScript básico de Bootstrap-->
+            <script src="../vendor/jquery/jquery.min.js"></script>
+            <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-    <!-- Scripts personalizados para todas las páginas-->
-    <script src="../js/sb-admin-2.min.js"></script>
+            <!-- Complemento principal de JavaScript-->
+            <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>
 
-    <!-- Complementos de nivel de página -->
-    <script src="../vendor/chart.js/Chart.min.js"></script>
+            <!-- Scripts personalizados para todas las páginas-->
+            <script src="../js/sb-admin-2.min.js"></script>
 
-    <!-- Scripts personalizados a nivel de página -->
-    <script src="../js/demo/chart-area-demo.js"></script>
-    <script src="../js/demo/chart-pie-demo.js"></script>
-    <!-- Scripts Validacion de Formulario -->
-    <script src="../js/formulario.js"></script>
-    <!-- JavaScript básico de Bootstrap-->
-    <script src="../vendor/jquery/jquery.min.js"></script>
-    <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+            <!-- Complementos de nivel de página -->
+            <script src="../vendor/chart.js/Chart.min.js"></script>
 
-    <!-- Complemento principal de JavaScript-->
-    <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>
+            <!-- Scripts personalizados a nivel de página -->
+            <script src="../js/demo/chart-area-demo.js"></script>
+            <script src="../js/demo/chart-pie-demo.js"></script>
+            <!-- Scripts Validacion de Formulario -->
+            <script src="../js/formulario.js"></script>
 
-    <!-- Scripts personalizados para todas las páginas-->
-    <script src="../js/sb-admin-2.min.js"></script>
+            <!-- Scripts personalizados a nivel de página -->
+            <script src="js/demo/chart-area-demo.js"></script>
+            <script src="js/demo/chart-pie-demo.js"></script>
 
-    <!-- Complementos de nivel de página -->
-    <script src="../vendor/chart.js/Chart.min.js"></script>
+            <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+            <!-- Uncomment below i you want to use a preloader -->
+            <!-- <div id="preloader"></div> -->
 
-    <!-- Scripts personalizados a nivel de página -->
-    <script src="../js/demo/chart-area-demo.js"></script>
-    <script src="../js/demo/chart-pie-demo.js"></script>
-    <!-- Scripts Validacion de Formulario -->
-    <script src="../js/formulario.js"></script>
+            <!-- JavaScript Libraries -->
+            <script src="lib/jquery/jquery.min.js"></script>
+            <script src="lib/jquery/jquery-migrate.min.js"></script>
+            <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+            <script src="lib/easing/easing.min.js"></script>
+            <script src="lib/mobile-nav/mobile-nav.js"></script>
+            <script src="lib/wow/wow.min.js"></script>
+            <script src="lib/waypoints/waypoints.min.js"></script>
+            <script src="lib/counterup/counterup.min.js"></script>
+            <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+            <script src="lib/isotope/isotope.pkgd.min.js"></script>
+            <script src="lib/lightbox/js/lightbox.min.js"></script>
+            <!-- Contact Form JavaScript File -->
+            <script src="contactform/contactform.js"></script>
 
-    <!-- Scripts personalizados a nivel de página -->
-    <script src="js/demo/chart-area-demo.js"></script>
-    <script src="js/demo/chart-pie-demo.js"></script>
-
-    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-    <!-- Uncomment below i you want to use a preloader -->
-    <!-- <div id="preloader"></div> -->
-
-    <!-- JavaScript Libraries -->
-    <script src="lib/jquery/jquery.min.js"></script>
-    <script src="lib/jquery/jquery-migrate.min.js"></script>
-    <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/mobile-nav/mobile-nav.js"></script>
-    <script src="lib/wow/wow.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/counterup/counterup.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/isotope/isotope.pkgd.min.js"></script>
-    <script src="lib/lightbox/js/lightbox.min.js"></script>
-    <!-- Contact Form JavaScript File -->
-    <script src="contactform/contactform.js"></script>
-
-    <!-- Template Main Javascript File -->
-    <script src="js/main.js"></script>
+            <!-- Template Main Javascript File -->
+            <script src="js/main.js"></script>
 </body>
 
 
