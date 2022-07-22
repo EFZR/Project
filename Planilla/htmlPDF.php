@@ -3,17 +3,14 @@ require_once  '../vendor/autoload.php';
 include '../SqlTools/database.php';
 
 $mpdf = new \Mpdf\Mpdf();
-
+$mpdf ->showImageErrors = true;
 $db = new database();
 
 $html = $_POST['rolex'];
-
 $empresa = $_POST['empresa'];
-
 $planilla = $_POST['planilla'];
 
 $name = 'planilla' . $planilla . ' Empresa' . $empresa;
-
 $url = 'C:/Planillas/planilla' . $planilla . ' Empresa' . $empresa . '.pdf';
 
 $Object = new DateTime();
