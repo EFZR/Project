@@ -16,6 +16,7 @@
 
   <!-- Core Stylesheet -->
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="../css/style2.0.css">
 
 </head>
 
@@ -138,7 +139,8 @@
                 </a></h6>
               <div id="collapseOne" class="accordion-content collapse show">
 
-                <h>Podrás generar reportes de tus empleados según su jornada, horas trabajadas, salario, y cualquier clasificación que necesites incorporar.</h>
+                <h>Podrás generar reportes de tus empleados según su jornada, horas trabajadas, salario, y cualquier
+                  clasificación que necesites incorporar.</h>
 
               </div>
             </div>
@@ -153,7 +155,9 @@
               </h6>
               <div id="collapseTwo" class="accordion-content collapse">
 
-                <h>Si no eres el único administrador de tu empresa también tenemos una propuesta para ti. Con nuestro plan multiusuario podrás crear tres perfiles en nuestro sistema y asignar los módulos de acceso según el rol de cada usuario.</h>
+                <h>Si no eres el único administrador de tu empresa también tenemos una propuesta para ti. Con nuestro
+                  plan multiusuario podrás crear tres perfiles en nuestro sistema y asignar los módulos de acceso según
+                  el rol de cada usuario.</h>
 
               </div>
             </div>
@@ -161,7 +165,9 @@
             <div class="panel single-accordion">
               <h6>
 
-                <a role="button" aria-expanded="true" aria-controls="collapseThree" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseThree"> CREACIÓN Y REGISTRO DE PLANILLAS
+                <a role="button" aria-expanded="true" aria-controls="collapseThree" class="collapsed"
+                  data-parent="#accordion" data-toggle="collapse" href="#collapseThree"> CREACIÓN Y REGISTRO DE
+                  PLANILLAS
 
                   <span class="accor-open"><i class="fa fa-plus" aria-hidden="true"></i></span>
                   <span class="accor-close"><i class="fa fa-minus" aria-hidden="true"></i></span>
@@ -182,10 +188,12 @@
             <ul class="nav nav-tabs" id="myTab" role="tablist">
               <li class="nav-item">
 
-                <a class="nav-link" id="tab--1" data-toggle="tab" href="#tab1" role="tab" aria-controls="tab1" aria-selected="false">MISIÓN</a>
+                <a class="nav-link" id="tab--1" data-toggle="tab" href="#tab1" role="tab" aria-controls="tab1"
+                  aria-selected="false">MISIÓN</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" id="tab--2" data-toggle="tab" href="#tab2" role="tab" aria-controls="tab2" aria-selected="false">VISIÓN</a>
+                <a class="nav-link active" id="tab--2" data-toggle="tab" href="#tab2" role="tab" aria-controls="tab2"
+                  aria-selected="false">VISIÓN</a>
 
               </li>
               <li class="nav-item">
@@ -407,17 +415,31 @@
       </div>
     </div>
     <div class="bottom-footer-area">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <p>
-              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-              Copyright &copy;<script>
-              document.write(new Date().getFullYear());
-              </script> All rights reserved | This template is made with <i class="fa fa-heart-o"
-                aria-hidden="true"></i> by <a href="" target="_blank">COPAP</a>
-              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            </p>
+      <div class="">
+        <div class="">
+          <div class="">
+            <div>
+              <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+                <defs>
+                  <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+                </defs>
+                <g class="parallax">
+                  <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(255,255,255,0.7" />
+                  <use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(255,255,255,0.5)" />
+                  <use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(255,255,255,0.3)" />
+                  <use xlink:href="#gentle-wave" x="50" y="7" fill="#fff" />
+                  <p>
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    Copyright &copy;<script>
+                    document.write(new Date().getFullYear());
+                    </script> All rights reserved | This template is made with <i class="fa fa-heart-o"
+                      aria-hidden="true"></i> by <a href="" target="_blank">COPAP</a>
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                  </p>
+                </g>
+              </svg>
+            </div>
           </div>
         </div>
       </div>
